@@ -1,4 +1,4 @@
-> ### blog 
+> #### [首页](http://hewei-github.github.io)
 
 > 1 . [模板 数据 和 后台控制](categorys/projects/tpl_data_server.html)
 

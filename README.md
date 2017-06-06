@@ -1,4 +1,4 @@
 # hewei-github
 my github blog
 
-> ### [history](http://hewei-github.github.io/histroy.html)
+> ### [index](http://hewei-github.github.io/index.html)

@@ -49,6 +49,7 @@ Kali Linux官方于3月19日发布2017年的第12周镜像。这次维持了11�
 > Desktop 截图
 
 			[ xfce desktop 截图]
+
 ![xface](http://img.blog.csdn.net/20160901105850586?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 
              [ gnome desktop 截图 ]

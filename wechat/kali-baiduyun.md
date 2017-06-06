@@ -1,0 +1,87 @@
+Kali Linux Os  中国镜像
+----------------------
+
+> ### 2017 (百度云)
+
+Kali Linux官方于3月19日发布2017年的第12周镜像。这次维持了11个镜像文件的规模。默认的Gnome桌面的4个镜像，E17、KDE、LXDE、MATE、XFCE桌面的各一个，
+
+手机版的包括ARMEL和ARMHF。有最近要安装Kali Linux系统的，可以考虑下载。因为这样可以节省升级包所花费的时间。
+
+下载安装时候，建议64位电脑使用kali-linux-2017-W12-amd64.iso，32位电脑使用kali-linux-2017-W12-i386.iso
+
+ **下载链接：http://pan.baidu.com/s/1c2otwFu 密码：h6u3**
+
+
+> ### 2016 (百度云)  
+
+ Kali Linux 2016.2发布提供虚拟机以及系统镜像下载
+
+ Kali Linux 2016.2发布提供虚拟机以及系统镜像下载，本次Kali Linux 2016.2提供了五种桌面模式，分别为Gnome、E17、Lxde、Mate和Xfce。所以这次分享的虚拟机也有五种。每种虚拟机单独放置在一个文件夹中，文件夹以“大学霸Kali Linux 2016.2\*\*\*”命令。其中，\***表示对应的桌面模式。每种虚拟机大约8G左右。大家根据需要下载。
+
+ 此次发布的版本，比2016.1更多。现在提供10个版本。主要分为以下几类:
+
+ 第一类，是最常规的32和64位版本：
+
+ kali-linux-2016.2-amd64.iso
+
+ kali-linux-2016.2-i386.iso
+
+ 第二类是简化版：
+
+ kali-linux-light-2016.2-amd64.iso
+
+ kali-linux-light-2016.2-armel.img.xz
+
+ kali-linux-light-2016.2-armhf.img.xz
+
+ kali-linux-light-2016.2-i386.iso
+
+ 第三类，是新增的四种桌面版，如e17、lxde、mate和xfce。
+
+ kali-linux-e17-2016.2-amd64.iso
+
+ kali-linux-lxde-2016.2-amd64.iso
+
+ kali-linux-mate-2016.2-amd64.iso
+
+ kali-linux-xfce-2016.2-amd64.iso
+
+> Desktop 截图
+
+			[ xfce desktop 截图]
+![xface](http://img.blog.csdn.net/20160901105850586?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
+
+             [ gnome desktop 截图 ]
+
+![Gnome](http://img.blog.csdn.net/20160901105840289?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
+
+ 以前的mini版本，暂时没有提供，可能被取消了。
+ 由于文件较大，下载比较慢。我们上传百度网盘。由于文件较多，会分开上传。
+
+> Kali iso 百度网盘链接:
+
+ **http://pan.baidu.com/s/1pLEk3Hp 密码：feqk**
+
+ > Kali Linux 2016.2虚拟机下载链接:
+
+**http://pan.baidu.com/s/1slzTvOT 密码：n97s**
+
+
+**_感谢 [大学\*\*\*T达人] [百度云] 的贡献_**
+
+
+> vbox oav 百度云下载
+
+- **链接 : https://pan.baidu.com/s/1hqxWkUo**
+
+- **密码 :**
+
+   - win7_32开机密码是1
+
+   - Linux 系列的 root密码一律是1
+
+   - ubuntu-desktop 账号de密码是1
+
+   - ubuntu-server 账号ubuntu密码ubuntu
+
+   - kali-linux 用root登录 1 | root
